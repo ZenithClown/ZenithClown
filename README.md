@@ -7,6 +7,8 @@
 	<a href = "https://www.kaggle.com/dPramanik/"><img height="16" width="16" src="https://unpkg.com/simple-icons@v3/icons/kaggle.svg"/></a>
 	<a href = "https://app.pluralsight.com/profile/Debmalya-Pramanik/"><img height="16" width="16" src="https://unpkg.com/simple-icons@v3/icons/pluralsight.svg"/></a>
 	<a href = "https://stackoverflow.com/users/6623589/"><img height="16" width="16" src="https://unpkg.com/simple-icons@v3/icons/stackoverflow.svg"/></a>
+	<br>
+	<a href = "https://github.com/ZenithClown/my-resume"><img src = "https://img.shields.io/badge/More%20Info.-R%C3%A9sume-%23324e7a?style=plastic&logo=latex"></a>
 </h1>
 
 <p align = "justify">
