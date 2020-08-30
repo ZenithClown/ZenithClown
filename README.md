@@ -11,9 +11,16 @@
 	<a href = "https://github.com/ZenithClown/my-resume"><img src = "https://img.shields.io/badge/More%20Info.-R%C3%A9sume-%23324e7a?style=plastic&logo=latex"></a>
 </h1>
 
+<p align = "center">
+	<img height="32" width="32" src="https://unpkg.com/simple-icons@v3/icons/python.svg"/>
+	<img height="30" width="30" src="https://unpkg.com/simple-icons@v3/icons/mysql.svg"/>
+	<img height="20" width="20" src="https://unpkg.com/simple-icons@v3/icons/tensorflow.svg"/>
+	<img height="20" width="20" src="https://unpkg.com/simple-icons@v3/icons/keras.svg"/>
+	<img height="30" width="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/matlab/matlab.png"/>
+	<img height="32" width="32" src="https://unpkg.com/simple-icons@v3/icons/apachespark.svg"/>
+	<img height="32" width="32" src="https://unpkg.com/simple-icons@v3/icons/latex.svg"/>
+</p>
+
 <p align = "justify">
 Hello everyone, this is Debmalya Pramanik. I've completed my graduation majoring in Electrical and Electronics Engineering. I'm currently working at Reliance Jio Infocomm Ltd as Asst. Mgr. in Data Science & Analytics Domain since October 2016, and have experience in Python, Machine Learning, SQL, Tableau, Spark with Python (PySpark), Hive, and Deep Learning methodologies like Recurring Neural Networks (RNN). I'm also currently pursuing Executive M. Tech in Power Electronics and Electrical Drives from the Indian Institute of Technology (IIT-ISM), Dhanbad.
 </p>
-
-## Language and Tools
-<img height="32" width="32" src="https://unpkg.com/simple-icons@v3/icons/python.svg"/> <img height="30" width="30" src="https://unpkg.com/simple-icons@v3/icons/mysql.svg"/> <img height="20" width="20" src="https://unpkg.com/simple-icons@v3/icons/tensorflow.svg"/> <img height="20" width="20" src="https://unpkg.com/simple-icons@v3/icons/keras.svg"/> <img height="30" width="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/matlab/matlab.png"/> <img height="32" width="32" src="https://unpkg.com/simple-icons@v3/icons/apachespark.svg"/>
