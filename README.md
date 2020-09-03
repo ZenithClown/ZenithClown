@@ -7,6 +7,7 @@
 	<a href = "https://www.kaggle.com/dPramanik/"><img height="16" width="16" src="https://unpkg.com/simple-icons@v3/icons/kaggle.svg"/></a>
 	<a href = "https://app.pluralsight.com/profile/Debmalya-Pramanik/"><img height="16" width="16" src="https://unpkg.com/simple-icons@v3/icons/pluralsight.svg"/></a>
 	<a href = "https://stackoverflow.com/users/6623589/"><img height="16" width="16" src="https://unpkg.com/simple-icons@v3/icons/stackoverflow.svg"/></a>
+	<a href = "https://www.hackerrank.com/dPramanik"><img height="16" width="16" src="https://unpkg.com/simple-icons@v3/icons/hackerrank.svg"/></a>
 </h1>
 
 <p align = "center">
