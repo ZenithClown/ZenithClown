@@ -10,6 +10,7 @@
 	<a href = "https://www.hackerrank.com/dPramanik"><img height="16" width="16" src="https://unpkg.com/simple-icons@v3/icons/hackerrank.svg"/></a>
 	<br>	
 	<a href = "https://github.com/ZenithClown/minimalist-resume"><img src = "https://img.shields.io/badge/More%20Info.-R%C3%A9sume-%23324e7a?style=plastic&logo=latex"></a>
+	<a href = "https://zenithclown.github.io/minimalist-resume/"><img src = "https://img.shields.io/badge/R%C3%A9sume-web--version-lightgrey?style=plastic&logo=github"></a>
 </h1>
 
 <p align = "justify">
