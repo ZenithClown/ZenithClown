@@ -15,6 +15,8 @@
 
 <p align = "justify">
 Hello everyone, this is Debmalya Pramanik. I've completed my graduation majoring in Electrical and Electronics Engineering. I'm currently working at Reliance Jio Infocomm Ltd as Asst. Mgr. in Data Science & Analytics Domain since October 2016, and have experience in Python, Machine Learning, SQL, Tableau, Spark with Python (PySpark), Hive, and Deep Learning methodologies like Recurring Neural Networks (RNN). I'm also currently pursuing Executive M. Tech in Power Electronics and Electrical Drives from the Indian Institute of Technology (IIT-ISM), Dhanbad.
+	
+<b>Looking for Contributers/Collaborators to Work on an Open Source Python <i>hobby</i> Project.</b> Project and Repositories is available under <a href = "https://github.com/pOrgz-dev">pOrgz-dev</a>.
 </p>
 
 <p align = "center">
