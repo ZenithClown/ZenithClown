@@ -1,5 +1,5 @@
 <h1 align = "center">
-	Debmalya Pramanik <br>
+	<img src = "https://readme-typing-svg.herokuapp.com?font=Zen+Loop&color=1B5E7C&size=75&height=105&lines=Debmalya+Pramanik"/> <br>
 	<a href = "https://www.linkedin.com/in/dpramanik/"><img height="16" width="16" src="https://unpkg.com/simple-icons@v3/icons/linkedin.svg"/></a>
 	<a href = "https://github.com/ZenithClown"><img height="16" width="16" src="https://unpkg.com/simple-icons@v3/icons/github.svg"/></a>
 	<a href = "https://gitlab.com/ZenithClown/"><img height="16" width="16" src="https://unpkg.com/simple-icons@v3/icons/gitlab.svg"/></a>
@@ -27,4 +27,5 @@ Hello everyone, this is Debmalya Pramanik. I've completed my graduation majoring
 	<img height="30" width="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/matlab/matlab.png"/>
 	<img height="32" width="32" src="https://unpkg.com/simple-icons@v3/icons/apachespark.svg"/>
 	<img height="32" width="32" src="https://unpkg.com/simple-icons@v3/icons/latex.svg"/>
+	<br> <img src = "https://komarev.com/ghpvc/?username=ZenithClown&style=plastic"/>
 </p>
