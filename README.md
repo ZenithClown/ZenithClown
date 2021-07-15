@@ -31,6 +31,6 @@ Hello everyone, this is Debmalya Pramanik. I've completed my graduation majoring
 	<img height="32" width="32" src="https://unpkg.com/simple-icons@v3/icons/apachespark.svg"/>
 	<img height="32" width="32" src="https://unpkg.com/simple-icons@v3/icons/latex.svg"/>
 	<br>
-	<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=ZenithClown&hide=javascript,html,css,makefile&layout=compact&langs_count=6"/>
+	<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=ZenithClown&hide=javascript,html,css,makefile&layout=compact&langs_count=6&hide_title=true"/>
 	<br><br> <img src = "https://komarev.com/ghpvc/?username=ZenithClown&style=plastic"/>
 </p>
