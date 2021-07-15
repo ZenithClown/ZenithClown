@@ -11,7 +11,10 @@
 	<br>	
 	<a href = "https://github.com/ZenithClown/minimalist-resume"><img src = "https://img.shields.io/badge/More%20Info.-R%C3%A9sume-%23324e7a?style=plastic&logo=latex"></a>
 	<a href = "https://zenithclown.github.io/minimalist-resume/"><img src = "https://img.shields.io/badge/R%C3%A9sume-web--version-lightgrey?style=plastic&logo=github"></a>
+	<br>
+	<img src = "https://github-readme-stats.vercel.app/api?username=ZenithClown&show_icons=true&count_private=true&theme=buefy&hide_title=true"/>
 </h1>
+
 
 <p align = "justify">
 Hello everyone, this is Debmalya Pramanik. I've completed my graduation majoring in Electrical and Electronics Engineering. I'm currently working at Reliance Jio Infocomm Ltd as Asst. Mgr. in Data Science & Analytics Domain since October 2016, and have experience in Python, Machine Learning, SQL, Tableau, Spark with Python (PySpark), Hive, and Deep Learning methodologies like Recurring Neural Networks (RNN). I'm also currently pursuing Executive M. Tech in Power Electronics and Electrical Drives from the Indian Institute of Technology (IIT-ISM), Dhanbad.
@@ -27,5 +30,7 @@ Hello everyone, this is Debmalya Pramanik. I've completed my graduation majoring
 	<img height="30" width="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/matlab/matlab.png"/>
 	<img height="32" width="32" src="https://unpkg.com/simple-icons@v3/icons/apachespark.svg"/>
 	<img height="32" width="32" src="https://unpkg.com/simple-icons@v3/icons/latex.svg"/>
-	<br> <img src = "https://komarev.com/ghpvc/?username=ZenithClown&style=plastic"/>
+	<br>
+	<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=ZenithClown&hide=javascript,html,css,makefile&layout=compact&langs_count=6"/>
+	<br><br> <img src = "https://komarev.com/ghpvc/?username=ZenithClown&style=plastic"/>
 </p>
