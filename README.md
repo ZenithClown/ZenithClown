@@ -16,11 +16,9 @@
 </h1>
 
 
-<p align = "justify">
-Hello everyone, this is Debmalya Pramanik. I've completed my graduation majoring in Electrical and Electronics Engineering. I'm currently working at Reliance Jio Infocomm Ltd as Asst. Mgr. in Data Science & Analytics Domain since October 2016, and have experience in Python, Machine Learning, SQL, Tableau, Spark with Python (PySpark), Hive, and Deep Learning methodologies like Recurring Neural Networks (RNN). I'm also currently pursuing Executive M. Tech in Power Electronics and Electrical Drives from the Indian Institute of Technology (IIT-ISM), Dhanbad.
+<p align = "justify">Hello everyone, this is Debmalya Pramanik. I've completed my graduation majoring in Electrical and Electronics Engineering. I'm currently working at Reliance Jio Infocomm Ltd as Asst. Mgr. in Data Science & Analytics Domain since October 2016, and have experience in Python, Machine Learning, SQL, Tableau, Spark with Python (PySpark), Hive, and Deep Learning methodologies like Recurring Neural Networks (RNN). I'm also currently pursuing Executive M. Tech in Power Electronics and Electrical Drives from the Indian Institute of Technology (IIT-ISM), Dhanbad.</p>
 	
-<b>Looking for Contributers/Collaborators to Work on an Open Source Python <i>hobby</i> Project.</b> Project and Repositories is available under <a href = "https://github.com/pOrgz-dev">pOrgz-dev</a>.
-</p>
+<p align = "justify"><b>Looking for Contributers/Collaborators to Work on an Open Source Python <i>hobby</i> Project.</b> Project and Repositories is available under <a href = "https://github.com/pOrgz-dev">pOrgz-dev</a>. Also, I am working in collaboration with <a href = "https://www.visualcrossing.com/">VisualCrossing</a> to create a <i>python wrapper</i> to easily fetch and manipulate weather data. If interested, feel free to send PRs! (Code available at <a href = "https://github.com/ZenithClown/VisualCrossing">ZenithClown/VisualCrossing</a>)</p>
 
 <p align = "center">
 	<img height="32" width="32" src="https://unpkg.com/simple-icons@v3/icons/python.svg"/>
@@ -34,3 +32,5 @@ Hello everyone, this is Debmalya Pramanik. I've completed my graduation majoring
 	<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=ZenithClown&hide=javascript,html,css,makefile&layout=compact&langs_count=6&hide_title=true"/>
 	<br><br> <img src = "https://komarev.com/ghpvc/?username=ZenithClown&style=plastic"/>
 </p>
+
+<p align = "justify"><b>Keywords:</b> data, science, analyst, data scientist, data analyst, machine learning, neural networks, deep learning, statistics, visualization, python, templates, flask, weather, rest api, jupyter notebook, analysis, modelling</p>
