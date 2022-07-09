@@ -1,0 +1,36 @@
+# GH workflow for generating a contribution graph using snake game
+# https://github.com/marketplace/actions/generate-snake-game-from-github-contribution-grid
+
+name: Generate Snake Contribution
+
+on:
+  schedule:
+    # run the workflow at every desired time
+    - cron: "0 */6 * * *"
+    
+  # allow the workflow to automatically run and generate files
+  # TODO: setup applications and CI/CD pipelines
+  # https://github.com/Leticia-maria/Leticia-maria/blob/main/.github/workflows/snake.yml
+  workflow_dispatch:
+    # Sequence of runs in this workflow
+    jobs:
+      # the job have one run `build`
+      build:
+        runs-on: ubuntu-latest
+        steps:
+          # TODO setup ${{ GITHUB_WORKSHOP }}
+          - uses: actions/checkout@v2
+
+          # generates snake, as per documentation
+          - uses: Platane/snk@master
+            with:
+              github_user_name: ZenithClown
+              # generate the file and save it under `dist` directory
+              gif_out_path: dist/github-contribution-grid-snake.gif
+              svg_out_path: dist/github-contribution-grid-snake.svg
+          # runs the git status and show build logs for easier debugging
+          - run: git status
+            # push the new changes, and generate all the files directly to master branch
+            - name: Push Changes
+              uses: ad-m/github-push-action@master
+              # TODO setup and set `heroku` (?) based apps for automatic build and push
