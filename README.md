@@ -13,6 +13,8 @@
 	<a href = "https://zenithclown.github.io/minimalist-resume/"><img src = "https://img.shields.io/badge/R%C3%A9sume-web--version-lightgrey?style=plastic&logo=github"></a>
 	<br>
 	<img src = "https://github-readme-stats.vercel.app/api?username=ZenithClown&show_icons=true&count_private=true&theme=buefy&hide_title=true"/>
+	<br>
+	<img src = "./snake-contrib/snk-09072022-1515.svg"/>
 </h1>
 
 
