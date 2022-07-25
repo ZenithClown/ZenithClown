@@ -14,7 +14,7 @@
 	<br>
 	<img src = "https://github-readme-stats.vercel.app/api?username=ZenithClown&show_icons=true&count_private=true&theme=buefy&hide_title=true"/>
 	<br>
-	<img src = "./snake-contrib/snk-09072022-1515.svg"/>
+	<img src = "./snake-contrib/snk-25072022-1705.svg"/>
 </h1>
 
 
