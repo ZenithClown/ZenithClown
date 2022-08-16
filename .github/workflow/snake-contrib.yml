@@ -3,22 +3,31 @@
 
 name: Generate Snake Contribution
 
+# jobs controls when the application will run
+# where the output images be save (defaults to `master` branch)
+# update the contents in branch, thus keep the snake game updated
+
 on:
   schedule:
     # run the workflow at every desired time
-    - cron: "0 */6 * * *"
-    
+    # generated with https://crontab.guru/
+    # “At 03:30 on Monday, Wednesday, and Friday.”
+    - cron: "30 3 * * 1,3,5"
+
   # allow the workflow to automatically run and generate files
-  # TODO: setup applications and CI/CD pipelines
+  # this code is taken from official action documentations and from Letica Maria
   # https://github.com/Leticia-maria/Leticia-maria/blob/main/.github/workflows/snake.yml
   workflow_dispatch:
     # Sequence of runs in this workflow
     jobs:
       # the job have one run `build`
+      # under `build` the `steps` define the the sequence of tasks
       build:
+        # defines the `runner` or `environment` where the application will run
         runs-on: ubuntu-latest
         steps:
           # TODO setup ${{ GITHUB_WORKSHOP }}
+          # check repository under `${{ GITHUB_WORKSHOP }}` so your job can access it
           - uses: actions/checkout@v2
 
           # generates snake, as per documentation
@@ -28,9 +37,14 @@ on:
               # generate the file and save it under `dist` directory
               gif_out_path: dist/github-contribution-grid-snake.gif
               svg_out_path: dist/github-contribution-grid-snake.svg
+
           # runs the git status and show build logs for easier debugging
           - run: git status
-            # push the new changes, and generate all the files directly to master branch
-            - name: Push Changes
-              uses: ad-m/github-push-action@master
-              # TODO setup and set `heroku` (?) based apps for automatic build and push
+
+          # push the new changes, and generate all the files directly to master branch
+          - name: Push Changes
+            uses: ad-m/github-push-action@master
+            with:
+              GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+              branch: master
+              # force: true
