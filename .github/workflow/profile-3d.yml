@@ -1,0 +1,40 @@
+# GH workflow for generating a profile 3d view
+# https://github.com/marketplace/actions/github-profile-3d-contrib
+
+name: Generate 3D Contribution Profile View
+
+# jobs controls when the application will run
+# where the output images be save (defaults to `master` branch)
+# update the contents in branch, thus keep the snake game updated
+
+on:
+  schedule:
+    # run the workflow at every desired time
+    # generated with https://crontab.guru/
+    # “At 03:30 on Monday, Wednesday, and Friday.”
+    # - cron: "30 3 * * 1,3,5"
+    # trigger using github actions now
+    - cron: "20 14 * * *"
+
+  # Sequence of runs in this workflow
+  jobs:
+    # the job have one run `build`
+    # under `build` the `steps` define the the sequence of tasks
+    build:
+      # defines the `runner` or `environment` where the application will run
+      runs-on: ubuntu-latest
+      name: generate-github-profile-3d-contrib
+      
+      steps:
+        - uses: actions/checkout@v2
+        - uses: yoshi389111/github-profile-3d-contrib@0.7.0
+          env:
+            GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+            USERNAME: ZenithClown
+        - name: Commit & Push Changes
+        - run: |
+            git config --global user.name github-actions
+            git config --global user.email github-actions@github.com
+            git add -A .
+            git commit -m "updated 3d contrib view @ $(date)"
+            git push
