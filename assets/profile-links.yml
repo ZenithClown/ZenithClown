@@ -1,0 +1,38 @@
+version: 0.0.1 # profile link file version
+
+about:
+  description:
+    This file defines the social profile links which are related to
+    me, thus enabling users to locate me through social media. The
+    file is generalized with different `arguments` and/or `keywords`
+    which can be used for different programming purposes.
+
+  usage:
+    # TODO How to use the content to automatically update?
+    # ! Can setup a CI/CD pipeline to check if the contents are
+    # ! changed, and then run a script to update logics/links.
+    Use the links provided to populate different types of files (like
+    README.md, contact.htnl etc.) and once this file is edited other
+    links should be automatically changed/updated. Directly access
+    the file using "raw github user content" using the following -
+    ```python
+      import json
+      import yaml
+      import urllib
+
+      response = urllib.request.urlopen("<raw-file-link>")
+      meta = yaml.load(response, Loader = yaml.FullLoader)
+      print(json.dumps(meta, indent = 2))
+    ```
+
+  date: 08-10-2022
+  author: Debmalya Pramanik
+
+links:
+  # ! the key is the social media platform name
+  # this followed by the links, which is default to all, while
+  # others may/maynot have additional attributes, which can are as:
+  # * `hide` : hide/unhide the link in the generated files
+  facebook:
+    link: https://www.facebook.com/iamMrHobo/
+    hide: True
