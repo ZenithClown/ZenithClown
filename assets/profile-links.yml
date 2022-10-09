@@ -33,6 +33,28 @@ links:
   # this followed by the links, which is default to all, while
   # others may/maynot have additional attributes, which can are as:
   # * `hide` : hide/unhide the link in the generated files
+
+  ### --- social media websites --- ###
   facebook:
     link: https://www.facebook.com/iamMrHobo/
     hide: True
+  linkedin:
+    link: https://www.linkedin.com/in/dpramanik/
+    hide: False
+  pluralsight:
+    link: https://app.pluralsight.com/profile/Debmalya-Pramanik/
+    hide: False
+
+  ### --- coding/development websites --- ###
+  github:
+    link: https://github.com/ZenithClown
+    hide: False
+  gitlab:
+    link: https://gitlab.com/ZenithClown/
+    hide: False
+  kaggle:
+    link: https://www.kaggle.com/dPramanik/
+    hide: False
+  # name:
+  #   link: 
+  #   hide: False
