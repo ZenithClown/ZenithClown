@@ -13,7 +13,17 @@ about:
     # ! changed, and then run a script to update logics/links.
     Use the links provided to populate different types of files (like
     README.md, contact.htnl etc.) and once this file is edited other
-    links should be automatically changed/updated.
+    links should be automatically changed/updated. Directly access
+    the file using "raw github user content" using the following -
+    ```python
+      import json
+      import yaml
+      import urllib
+
+      response = urllib.request.urlopen("<raw-file-link>")
+      meta = yaml.load(response, Loader = yaml.FullLoader)
+      print(json.dumps(meta, indent = 2))
+    ```
 
   date: 08-10-2022
   author: Debmalya Pramanik
