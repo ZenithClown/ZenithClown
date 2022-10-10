@@ -45,6 +45,11 @@ links:
     link: https://app.pluralsight.com/profile/Debmalya-Pramanik/
     hide: False
 
+  ### --- education profile websites --- ###
+  researchgate:
+    link: https://www.researchgate.net/profile/Debmalya_Pramanik2
+    hide: False
+
   ### --- coding/development websites --- ###
   github:
     link: https://github.com/ZenithClown
@@ -55,6 +60,11 @@ links:
   kaggle:
     link: https://www.kaggle.com/dPramanik/
     hide: False
-  # name:
-  #   link: 
-  #   hide: False
+#   name:
+#     link: 
+#     hide: False
+
+  ### --- code development showcase --- ###
+  stackoverflow:
+    link: https://stackoverflow.com/users/6623589/
+    hide: False
