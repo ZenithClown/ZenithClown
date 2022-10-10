@@ -1,4 +1,4 @@
-version: 0.0.1 # profile link file version
+version: 0.1.0 # profile link file version
 
 about:
   description:
@@ -29,42 +29,67 @@ about:
   author: Debmalya Pramanik
 
 links:
-  # ! the key is the social media platform name
+  # ! the key is the social media platform name, and
+  # ! grouped by category (..versionadded: 0.1.0)
   # this followed by the links, which is default to all, while
   # others may/maynot have additional attributes, which can are as:
   # * `hide` : hide/unhide the link in the generated files
 
-  ### --- social media websites --- ###
-  facebook:
-    link: https://www.facebook.com/iamMrHobo/
-    hide: True
-  linkedin:
-    link: https://www.linkedin.com/in/dpramanik/
-    hide: False
-  pluralsight:
-    link: https://app.pluralsight.com/profile/Debmalya-Pramanik/
-    hide: False
+  social:
+    description:
+      List of social media website profiles for social (personal
+      and/or professional) interactions.
+    websites:
+      facebook:
+        link: https://www.facebook.com/iamMrHobo/
+        hide: True
+      linkedin:
+        link: https://www.linkedin.com/in/dpramanik/
+        hide: False
 
-  ### --- education profile websites --- ###
-  researchgate:
-    link: https://www.researchgate.net/profile/Debmalya_Pramanik2
-    hide: False
+  academics:
+    description:
+      Interested to know more about my academical qualifications?
+      Well, then you can find my works and education information
+      in any of the below mentioned websites.
+    websites:
+      researchgate:
+        link: https://www.researchgate.net/profile/Debmalya_Pramanik2
+        hide: False
 
-  ### --- coding/development websites --- ###
-  github:
-    link: https://github.com/ZenithClown
-    hide: False
-  gitlab:
-    link: https://gitlab.com/ZenithClown/
-    hide: False
-  kaggle:
-    link: https://www.kaggle.com/dPramanik/
-    hide: False
-#   name:
-#     link: 
-#     hide: False
+  codes:
+    description:
+      Interested to check my works (projects, research articles)
+      and/or my code quality? Well, check my existing codes in
+      any of the given websites.
+    websites:
+      github:
+        link: https://github.com/ZenithClown
+        hide: False
+      gitlab:
+        link: https://gitlab.com/ZenithClown/
+        hide: False
+      kaggle:
+        link: https://www.kaggle.com/dPramanik/
+        hide: False
 
-  ### --- code development showcase --- ###
-  stackoverflow:
-    link: https://stackoverflow.com/users/6623589/
-    hide: False
+  open-source:
+    description:
+      I do take part in open source contribution, and thus try to
+      share my knowledge with others. Here is a curated list of sites
+      that showcases my open source discussion and involvement.
+    websites:
+      stackoverflow:
+        link: https://stackoverflow.com/users/6623589/
+        hide: False
+        
+  learning:
+    description:
+      A good coder/developer/person should never stops learning. With
+      this in mind, here is a list of profiles that I have setup to
+      enhance my skills and knowledge. The profile may sometime also
+      showcase my talent and/or competency score.
+    websites:
+      pluralsight:
+        link: https://app.pluralsight.com/profile/Debmalya-Pramanik/
+        hide: False
