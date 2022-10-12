@@ -1,4 +1,4 @@
-version: 0.1.0 # profile link file version
+version: 0.1.1 # profile link file version
 
 about:
   description:
@@ -82,8 +82,13 @@ links:
       stackoverflow:
         link: https://stackoverflow.com/users/6623589/
         hide: False
-        
+
   learning:
+    # ! `code` : links for question solutions are available
+    # generally, most learning platform provides questionaire (like
+    # hackerrank, leetcode, etc) and these codes are showcased in the
+    # following links, seperated by language (internal key)
+    # ? check `pluralsight/code` for more information
     description:
       A good coder/developer/person should never stops learning. With
       this in mind, here is a list of profiles that I have setup to
@@ -92,4 +97,16 @@ links:
     websites:
       pluralsight:
         link: https://app.pluralsight.com/profile/Debmalya-Pramanik/
+        hide: True
+        code:
+          # * `allow` (bool) : to share/display the code files with others?
+          # * `links` (dict) : links to code files - `<language> : <link>`, can be null
+          allow: False
+          links: null
+      leetcode:
+        link: https://leetcode.com/MrHobo/
         hide: False
+        code:
+          allow: True
+          links:
+            python: null
