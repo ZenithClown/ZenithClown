@@ -1,6 +1,6 @@
 <h1 align = "center">
 	<img src = "https://readme-typing-svg.herokuapp.com?font=Zen+Loop&color=1B5E7C&size=75&height=105&lines=Debmalya+Pramanik"/>
-	<img src = "./assets/98991-exams-preparation.gif" align = "right" height = "375" />
+	<img src = "./assets/98991-exams-preparation.gif" align = "right" height = "225" />
 	<br>
 	<a href = "https://www.linkedin.com/in/dpramanik/"><img height="16" width="16" src="https://unpkg.com/simple-icons@v3/icons/linkedin.svg"/></a>
 	<a href = "https://github.com/ZenithClown"><img height="16" width="16" src="https://unpkg.com/simple-icons@v3/icons/github.svg"/></a>
