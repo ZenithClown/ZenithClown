@@ -18,7 +18,7 @@
 	<br>
 	<img src = "https://github-readme-stats.vercel.app/api?username=ZenithClown&show_icons=true&count_private=true&theme=buefy&hide_title=true"/>
 	<br>
-	<img src = "./snake-contrib/snk-25072022-1705.svg"/>
+	<img src = "./snake-contrib/snk-16112022-2025.svg"/>
 </h1>
 
 <p align = "justify"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Face%20with%20Monocle.png" alt="Face with Monocle" width="25" height="25" /><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand%20Light%20Skin%20Tone.png" alt="Waving Hand Light Skin Tone" width="25" height="25" /> Hello everyone, this is Debmalya Pramanik. I've completed my graduation majoring in Electrical and Electronics Engineering. I'm currently working at Reliance Jio Infocomm Ltd as Data Analytics (Manager) since October 2016, and have experience in Python, Machine Learning, SQL, Tableau, Spark with Python (PySpark), Hive, and Deep Learning methodologies like Recurring Neural Networks (RNN). I've also completed my M. Tech (3 Years) in Power Electronics and Electrical Drives from the Indian Institute of Technology (IIT-ISM), Dhanbad.</p>
