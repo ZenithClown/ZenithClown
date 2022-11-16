@@ -33,6 +33,7 @@
 | :---: | :---: | :---: |
 | <img src = "https://www.vectorlogo.zone/logos/stackoverflow/stackoverflow-icon.svg" width="25" height="25" /> | `CTRL + C` & `CTRL + V` | <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/tarikul-islam-anik/main/assets/images/Fire.png" alt="Fire Flame" width="25" height="25" /><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Nerd%20Face.png" alt="Nerd Face" width="25" height="25" /> |
 | <img src = "https://www.vectorlogo.zone/logos/github/github-icon.svg" width="25" height="25" /> | `versionining`/`tracking` | <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Crossed%20Fingers%20Medium-Light%20Skin%20Tone.png" alt="Crossed Fingers" width="25" height="25" /><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Smiling%20Face%20with%20Open%20Hands.png" alt="Smiling Face with Open Hands" width="25" height="25" /> |
+| <img src = "https://raw.githubusercontent.com/simple-icons/simple-icons/master/icons/leetcode.svg" width="25" height="25" /> | *learning* | <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Man%20Student.png" alt="Man Student" width="25" height="25" /> |
 	
 </div>
 
