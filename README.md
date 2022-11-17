@@ -2,17 +2,17 @@
 	<img src = "https://readme-typing-svg.herokuapp.com?font=Zen+Loop&color=1B5E7C&size=75&height=105&lines=Debmalya+Pramanik"/>
 	<img src = "./assets/98991-exams-preparation.gif" align = "right" height = "225" />
 	<br>
-	<a href = "https://www.linkedin.com/in/dpramanik/"><img height="16" width="16" src="https://unpkg.com/simple-icons@v3/icons/linkedin.svg"/></a>
-	<a href = "https://github.com/ZenithClown"><img height="16" width="16" src="https://unpkg.com/simple-icons@v3/icons/github.svg"/></a>
-	<a href = "https://gitlab.com/ZenithClown/"><img height="16" width="16" src="https://unpkg.com/simple-icons@v3/icons/gitlab.svg"/></a>
-	<a href = "https://www.researchgate.net/profile/Debmalya_Pramanik2"><img height="16" width="16" src="https://unpkg.com/simple-icons@v3/icons/researchgate.svg"/></a>
-	<a href = "https://www.kaggle.com/dPramanik/"><img height="16" width="16" src="https://unpkg.com/simple-icons@v3/icons/kaggle.svg"/></a>
-	<a href = "https://app.pluralsight.com/profile/Debmalya-Pramanik/"><img height="16" width="16" src="https://unpkg.com/simple-icons@v3/icons/pluralsight.svg"/></a>
-	<a href = "https://stackoverflow.com/users/6623589/"><img height="16" width="16" src="https://unpkg.com/simple-icons@v3/icons/stackoverflow.svg"/></a>
-	<a href = "https://www.hackerrank.com/dPramanik"><img height="16" width="16" src="https://unpkg.com/simple-icons@v3/icons/hackerrank.svg"/></a>
-	<a href = "https://www.hackerearth.com/@debmalya2"><img height="16" width="16" src="https://unpkg.com/browse/simple-icons@3.13.0/icons/hackerearth.svg"/></a>
-	<a href = "https://leetcode.com/MrHobo/"><img height="16" width="16" src="https://unpkg.com/browse/simple-icons@3.13.0/icons/leetcode.svg"/></a>
-	<br>	
+	<a href = "https://www.linkedin.com/in/dpramanik/"><img height="16" width="16" src="./assets/logos/profiles/linkedin.svg"/></a>
+	<a href = "https://github.com/ZenithClown"><img height="16" width="16" src="./assets/logos/profiles/github.svg"/></a>
+	<a href = "https://gitlab.com/ZenithClown/"><img height="16" width="16" src="./assets/logos/profiles/gitlab.svg"/></a>
+	<a href = "https://www.researchgate.net/profile/Debmalya_Pramanik2"><img height="16" width="16" src="./assets/logos/profiles/researchgate.svg"/></a>
+	<a href = "https://www.kaggle.com/dPramanik/"><img height="16" width="16" src="./assets/logos/profiles/kaggle.svg"/></a>
+	<a href = "https://app.pluralsight.com/profile/Debmalya-Pramanik/"><img height="16" width="16" src="./assets/logos/profiles/pluralsight.svg"/></a>
+	<a href = "https://stackoverflow.com/users/6623589/"><img height="16" width="16" src="./assets/logos/profiles/stackoverflow.svg"/></a>
+	<a href = "https://www.hackerrank.com/dPramanik"><img height="16" width="16" src="./assets/logos/profiles/hackerrank.svg"/></a>
+	<a href = "https://www.hackerearth.com/@debmalya2"><img height="16" width="16" src="./assets/logos/profiles/hackerearth.svg"/></a>
+	<a href = "https://leetcode.com/MrHobo/"><img height="16" width="16" src="./assets/logos/profiles/leetcode.svg"/></a>
+	<br>
 	<a href = "https://github.com/ZenithClown/minimalist-resume"><img src = "https://img.shields.io/badge/More%20Info.-R%C3%A9sume-%23324e7a?style=plastic&logo=latex"></a>
 	<a href = "https://zenithclown.github.io/minimalist-resume/"><img src = "https://img.shields.io/badge/R%C3%A9sume-web--version-lightgrey?style=plastic&logo=github"></a>
 	<br>
