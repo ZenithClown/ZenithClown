@@ -46,3 +46,22 @@
 </p>
 
 <p align = "justify"><b>Keywords:</b> data, science, analyst, data scientist, data analyst, machine learning, neural networks, deep learning, statistics, visualization, python, templates, flask, weather, rest api, jupyter notebook, analysis, modelling</p>
+
+<div align = "justify">
+
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Pushpin.png" alt="Pushpin" width="25" height="25" /> Pinned Repositories/GitHub Gists
+
+The section features some of my **defined _gists_** which is used throughout my projects. The related repositories has also been added as **`git submodule`**, and is generally called using `PYTHONPATH` in system. For a detailed guide of environment setup check **[⚠ `configurations`](https://gitlab.com/ZenithClown/computer-configurations-and-setups)** (my [`gitlab/ZenithClown`](https://gitlab.com/ZenithClown) account) for more details. The pinned repositories are categorised into the following sections:
+* **<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Robot.png" alt="Robot" width="16" height="16" /> AI/ML:** Repositories designed for achieving some AI/ML related tasks. For example these repositories are designed to perform feature engineering, model creation, optimization, etc.
+* **<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Crystal%20Ball.png" alt="Crystal Ball" width="16" height="16" /> Story Telling:** A set of curated repositories designed for generating graphs, charts and/or images for various story telling/business analysis/statistical understanding purposes.
+* **<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Thinking%20Face.png" alt="Thinking Face" width="16" height="16" /> Other Gist(s):** Other important gists that does not belong to any of the above defined categories.
+
+</div>
+
+<div align = "center">
+
+| **<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Robot.png" alt="Robot" width="16" height="16" /> AI/ML** | **<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Crystal%20Ball.png" alt="Crystal Ball" width="16" height="16" /> Story Telling** | **<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Thinking%20Face.png" alt="Thinking Face" width="16" height="16" /> Other Gists** |
+| :---: | :---: | :---: |
+| <table><thead><tr><th><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Alarm%20Clock.png" alt="Alarm Clock" width="16" height="16" /></th><th><a href = "https://gist.github.com/ZenithClown/2193d034cc57294d400ee91a99668269"><code>ZenithClown/<code><b><code>Time Series Featuring</code></b></a></th></tr></thead><tbody><tr><td colspan="2"><i>Create a set of training data<br>(<code>x_train, y_train</code>) for time series model<br>training and feature development.</i></td></tr><tr><td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="16" height="16"/></td><td>⭐ 0, 🔀 0</td></tr></tbody></table> | | |
+
+</div>
