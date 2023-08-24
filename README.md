@@ -21,6 +21,12 @@
   <img src = "./snake-contrib/snk-16112022-2025.svg"/>
 </h1>
 
+<div align = "center">
+
+**6.5+ Yrs. Total Experience** | Pidilite Industries | Ex-Reliance Jio
+
+</div>
+
 <div align = "justify">
 
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand%20Light%20Skin%20Tone.png" alt="Waving Hand Light Skin Tone" width="25" height="25" /> Hello everyone, this is Debmalya Pramanik. I've completed my graduation majoring in Electrical and Electronics Engineering. I'm currently working at Reliance Jio Infocomm Ltd as Data Analytics (Manager) since October 2016, and have experience in Python, Machine Learning, SQL, Tableau, Spark with Python (PySpark), Hive, and Deep Learning methodologies like Recurring Neural Networks (RNN). I've also completed my M. Tech (3 Years) in Power Electronics and Electrical Drives from the Indian Institute of Technology (IIT-ISM), Dhanbad.
