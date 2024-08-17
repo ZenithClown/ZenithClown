@@ -23,6 +23,8 @@
 
 **7+ Yrs. Total Experience** | Pidilite Industries | Ex-Reliance Jio
 
+<a href = "https://github.com/ZenithClown/"><img src = "https://komarev.com/ghpvc/?username=ZenithClown"></a>
+
 </div>
 
 <div align = "justify">
